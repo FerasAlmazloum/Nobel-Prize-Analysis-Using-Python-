@@ -1,7 +1,7 @@
 # Nobel-Prize-Analysis-Using-Python
 The Nobel Prize project involves analyzing a dataset of Nobel Prize winners from 1901 to 2023. 
 The aim is to explore the dataset to answer various questions about the prize winners across different categories, such as chemistry, literature, physics, physiology or medicine, economics, and peace.
-#Project Objectives
+# Project Objectives
 The goal of this project is to analyze the historical data of Nobel Prize winners to identify various patterns and insights and answering these questions:
 1-What is the most commonly awarded gender and birth country?
 2-Which decade had the highest ratio of US-born Nobel Prize winners to total winners in all categories?
